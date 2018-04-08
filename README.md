@@ -1,9 +1,5 @@
 # First test with isometric game engine
 
-# Preview
-
-* [Live](https://brunom76.github.io/canvasIso/preview/preview.html)
-
 ## List of classes
 
 ### Game Manager:
@@ -22,7 +18,6 @@
   *  Events
      * Over
      * Out
-     * Down
 
 ### Isometric front:
 
