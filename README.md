@@ -2,7 +2,7 @@
 
 # Preview
 
-* [Live](https://brunom76.github.io/isoEngine/preview/preview.html)
+* [Live](https://brunom76.github.io/canvasIso/preview/preview.html)
 
 ## List of classes
 
